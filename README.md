@@ -38,7 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Folium 
 
-<!DOCTYPE html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     

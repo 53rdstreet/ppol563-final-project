@@ -37,6 +37,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Plotly
 <iframe src="parallel_coordinate.html" height="500" width="800"></iframe>
 
-### Folium 
+### Folium Choropleth
 <iframe src="choropleth.html" height="500" width="800"></iframe>
-         
+ 
+<img src="job_listing.png">

@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Folium Choropleth
 <iframe src="choropleth.html" height="500" width="800"></iframe>
  
-<img src="job_listing.png">
+<img src="job_listing.png" width="600">

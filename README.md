@@ -36,6 +36,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Plotly
 <iframe src="parallel_coordinate.html" height="500" width="800"></iframe>
+
 <iframe src="fig.html" height="500" width="800"></iframe>
 
 ### Folium Choropleth

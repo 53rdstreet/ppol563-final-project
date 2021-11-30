@@ -40,5 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <iframe src="parallel_coordinate.html" height="500" width="800"></iframe>
 
 ### Folium 
-<iframe src="choropleth.html" height="500" width="1500"></iframe>
+<iframe src="choropleth.html" height="500" width="800"></iframe>
          

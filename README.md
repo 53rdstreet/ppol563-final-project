@@ -1,9 +1,8 @@
 ## U.S. Industries Most Affected by Covid-19 and Their Recovery, from an Employment Perspective
 
+The Covid-19 pandemic triggered economic recessions and job crises globally and in the U.S. Using survey data acquired from the Census Bureau and Bureau of Labor Statistics (BLS), we examine U.S. unemployment rate and related issues by industry and occupation. We found that accommodation, arts and entertainment, food and drink services industries are most heavily hit by the pandemic and recover from the impact relatively slowly. Also, 6 out of 8 occupations that are most affected by the pandemic are occupations with median hourly wage lower than the national median, suggesting that pandemic disproportionately affects lower-income population. Policy makers can design policies that address issues of unemployment and labor force participation by providing assistance and incentives to businesses in heavily hit industries. 
 
-You can use the [editor on GitHub](https://github.com/53rdstreet/projectpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And we'll also see how their recovery looks like.
 
 ### Plotly Lineplot
 <iframe src="lineplot.html" height="800" width="900"></iframe>

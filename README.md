@@ -8,11 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Plotly Lineplot
 <iframe src="lineplot.html" height="800" width="900"></iframe>
 
-<iframe src="fig.html" height="500" width="800"></iframe>
-
 ### Folium Choropleth
 <iframe src="choropleth.html" height="500" width="800"></iframe>
  
- ### Job listing information
+### Job listing information
 <img src="job_listing.png" width="600">
 <iframe src="areaplot.html" height="500" width="800"></iframe>

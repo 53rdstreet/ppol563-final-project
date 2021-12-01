@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/53rdstreet/projectpage/edi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Plotly
-<iframe src="lineplot.html" height="500" width="800"></iframe>
+<iframe src="lineplot.html" height="800" width="800"></iframe>
 
 <iframe src="fig.html" height="500" width="800"></iframe>
 

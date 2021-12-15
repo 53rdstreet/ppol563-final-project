@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 theme: jekyll-theme-slate
 title: PPOL-563 Final Project 
 description: Zixun Hao, PPOL-563 Data Visualization for Data Science

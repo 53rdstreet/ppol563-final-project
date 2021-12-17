@@ -2,6 +2,17 @@
 ---
 
 @import "{{ site.theme }}";  
+
+body {
+  box-sizing: border-box;
+  color:#301934;
+  background: #4e5180;
+  font-size: 16px;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
 .inner {
   position: relative;
   max-width: 1000px;

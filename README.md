@@ -12,4 +12,4 @@ And we'll also see how their recovery looks like.
  
 ### Job listing information
 <img src="job_listing.png" width="600">
-<iframe src="image/1_stack_area.html" height="500" width="800"></iframe>
+<iframe src="1_stack_area.html" height="500" width="800"></iframe>

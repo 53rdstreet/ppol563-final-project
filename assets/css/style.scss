@@ -10,6 +10,11 @@
 }
 
 #header_wrap {
-  background: url('../image/industry.png') no-repeat center center;
-  background-size: cover;
+  background: #4e5180;
+  background: -moz-linear-gradient(top, #301934, #4e5180);
+  background: -webkit-linear-gradient(top, #301934, #4e5180);
+  background: -ms-linear-gradient(top, #301934, #4e5180);
+  background: -o-linear-gradient(top, #301934, #4e5180);
+  background: linear-gradient(to top, #301934, #4e5180);
 }
+

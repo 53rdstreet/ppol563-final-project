@@ -5,11 +5,8 @@ The Covid-19 pandemic triggered economic recessions and job crises globally and 
 And we'll also see how their recovery looks like.
 
 ### Plotly Lineplot
-<iframe src="lineplot.html" height="900" width="900"></iframe>
+<iframe src="lineplot.html" height="700" width="1000"></iframe>
 
-### Folium Choropleth
-<iframe src="choropleth.html" height="500" width="800"></iframe>
- 
 ### Job listing information
 <img src="job_listing.png" width="600">
-<iframe src="1_stack_area.html" height="900" width="1100"></iframe>
+<iframe src="image/1_stack_area.html" height="900" width="1100"></iframe>

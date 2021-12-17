@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: #DE2910;
+  background-image: url("image/ccp.png");
+  }

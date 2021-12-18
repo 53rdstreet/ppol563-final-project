@@ -52,13 +52,13 @@
 
   The plot below presents the net job loss from February to April 2020 alongside the job gain from April 2020 to November 2021. Despite that it has been one year and a half since the Covid-inflicted recession, most of the industries (except financial activities) are still not fully recovered from the job loss during the first months of the pandemic. Noticeably, entertainment and hospitality (again) has a larger gap to fill, and governments, after experiencing significant job loss, have had very little job gain in the past 19 months. 
 
-<iframe src="image/6_jobloss_barplot.html" height="600" width="800"></iframe>
+<iframe src="image/6_jobloss_barplot.html" height="610" width="810"></iframe>
 
   The graph below displays the trend of job openings from February 2020 to February 2021 in four industries that we identify as heavily affected by the pandemic. The number of job listings is normalized to the pre-Covid levels. It shows that the volume of listings for all four industries spiked around January and August 2021. Job listings in both retail and transportation industries began picking up as early as July 2020 and hovered around pre-Covid levels, before dipping again in December 2020 and July 2021, and spiking in January and August 2021. It seems to show that retail and transportation industries’ demand for employees is seasonal and cyclical, but it recovers from the pandemic relatively fast. 
   
   On the other hand, entertainment and hospitality job listings followed a similar trend, dropping low during April, hovering at around half of the pre-Covid levels before peaking in January 2021, and then falling back just below the baseline with a slight trend upwards. Hospitality’s job listings surged to quadruple that of the pre-Covid level in August 2021, while entertainment’s labor demand also increased to twice the pre-Covid level. All industries steadily stayed above pre-covid levels afterward. Measuring by the amount of job openings, retail and transportation industries recover better than the entertainment and hospitality industries for the most of the past year, which is likely because retail and transportation are necessities, while demand for entertainment and hospitality services are more elastic. 
     
-<iframe src="image/7_listing_areaplot.html" height="630" width="1100"></iframe>
+<iframe src="image/7_listing_areaplot.html" height="610" width="1110"></iframe>
 
 ### Implications and Recommendations 
 

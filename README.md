@@ -7,7 +7,7 @@
 
   The Covid-19 pandemic has set off one of the worst labor and job crises since the Great Depression. Research has found that the job disruption disproportionately affects lower-income households, women and racial minorities; increases poverty and widens income inequalities (Pew Research Center, 2021). The Organisation for Economic Co-operation and Development also warns about the large amount of permanent job losses and the potential social crisis (OECD, 2021).
 
-<iframe src="image/1_stack_area.html" height="600" width="1000"></iframe>
+<iframe src="image/1_stack_area.html" height="620" width="1010"></iframe>
 
   The plots above visualize the percentage of the population that are not in the labor force, unemployed, and employed between January 2020 to November 2021. It also shows the sharp increase of the national unemployment rate in April of 2020, and the decreasing trend henceforth with occasional upticks. The preliminary data from BLS shows that the unemployment rate dropped to 4.2% in November 2021, though still higher than the pre-Covid level.  The recovery of labor force participation is slower, only recovering half of the loss in participation rate since February 2020. Researchers pointed out that the decline in unemployment rate partially stemmed from the fact that some people stopped looking for work, and thus are not counted as unemployed (Politico, 2021). According to the Pew Research Center, the decline in labor force participation amid the pandemic indicates that the official unemployment rate underestimates the share of the population who are jobless (2020).  
   
@@ -15,7 +15,7 @@
   
   The plot below visualizes the industry sectors in the US and their relative size in terms of employment level. The data is from 2019, which is the latest detailed estimate available. Certain sectors can be narrowed down further past what is presented by this initial plot. You can click into these categories to see their subcategories!
 
-<iframe src="image/2_treemap.html" height="700" width="900"></iframe>
+<iframe src="image/2_treemap.html" height="720" width="910"></iframe>
 
 ### Data and Description of Analysis 
 
@@ -26,7 +26,7 @@
 ### Key Findings 
 #### 1. Covid-inflicted Recession and Varying Impacts
 
-<iframe src="image/3_lineplot.html" height="700" width="1000"></iframe>
+<iframe src="image/3_lineplot.html" height="720" width="1010"></iframe>
 
   The plot above presents the post-Covid unemployment rate by industry. Each industry sector is denoted by a different color. You can see the industry and statistics by hovering your cursor on the lines, or clicking on the dropdown menu to view the line chart for a specific industry by itself. You can also adjust the bar beneath the line chart to focus on to home in on more minute changes.
   
@@ -36,29 +36,29 @@
   
   The size of the bubbles represents the number of respondents in the BLS’s Current Population Survey who are employed in the industry. The survey does not provide industry-specific weights to responses. But since the sample size is sufficiently large, the number of respondents is indicative of the employment levels of these industries.
 
-<iframe src="image/4_bubble_new.html" height="600" width="900"></iframe>
+<iframe src="image/4_bubble_new.html" height="620" width="910"></iframe>
 
 #### 2. Varying speed of recovery 
 
   The table below shows a ranking of industries based on the surges in their unemployment rate from February 2020 to May 2020. The reason that I chose May 2020 is that it is one quarter apart from our pre-Covid baseline (February 2020), when the pandemic intensified, and social distancing was implemented in the majority of the states. It is useful to measure the shock of the pandemic.
 
-<iframe src="image/4.5_table_new.html" height="600" width="600"></iframe>
+<iframe src="image/4.5_table_new.html" height="500" width="600"></iframe>
 
   Now let’s look at the recovery of different industries. The plot below displays the comparison between the unemployment rates in February 2020 and in February 2021 across industries that we identify as most affected by Covid-19 in the early months. Since February 2021 is one year apart from the pre-Covid baseline, it facilitates year-on-year comparisons and circumvents the effect of seasonality of certain industries. We see that while industries like accommodation, art and entertainment, and food services remained at a high rate of unemployment compared to their pre-Covid levels, transportation equipment manufacturing, retail trade, and social assistance industries have moved closer to their respective pre-Covid unemployment rates. This shows that certain industries, despite being hit heavily at the onset of the pandemic, are more resilient and recovering from the shutdowns and recession faster. While for other industries, the negative impact of the pandemic is relatively long-term. 
   
   The national median hourly wage estimate cross-industry and cross-occupation in May 2020 is $20.17. We consider industries with median hourly wages lower than $20.17 in May 2020 as lower-waged. Again, we observe significant overlaps between lower-wage industries and industries most affected by the pandemic. 
 
-<iframe src="image/5_dumbbell.html" height="630" width="900"></iframe>
+<iframe src="image/5_dumbbell.html" height="620" width="910"></iframe>
 
   The plot below presents the net job loss from February to April 2020 alongside the job gain from April 2020 to November 2021. Despite that it has been one year and a half since the Covid-inflicted recession, most of the industries (except financial activities) are still not fully recovered from the job loss during the first months of the pandemic. Noticeably, entertainment and hospitality (again) has a larger gap to fill, and governments, after experiencing significant job loss, have had very little job gain in the past 19 months. 
 
-<iframe src="image/6_jobloss_barplot.html" height="610" width="810"></iframe>
+<iframe src="image/6_jobloss_barplot.html" height="620" width="810"></iframe>
 
   The graph below displays the trend of job openings from February 2020 to February 2021 in four industries that we identify as heavily affected by the pandemic. The number of job listings is normalized to the pre-Covid levels. It shows that the volume of listings for all four industries spiked around January and August 2021. Job listings in both retail and transportation industries began picking up as early as July 2020 and hovered around pre-Covid levels, before dipping again in December 2020 and July 2021, and spiking in January and August 2021. It seems to show that retail and transportation industries’ demand for employees is seasonal and cyclical, but it recovers from the pandemic relatively fast. 
   
   On the other hand, entertainment and hospitality job listings followed a similar trend, dropping low during April, hovering at around half of the pre-Covid levels before peaking in January 2021, and then falling back just below the baseline with a slight trend upwards. Hospitality’s job listings surged to quadruple that of the pre-Covid level in August 2021, while entertainment’s labor demand also increased to twice the pre-Covid level. All industries steadily stayed above pre-covid levels afterward. Measuring by the amount of job openings, retail and transportation industries recover better than the entertainment and hospitality industries for the most of the past year, which is likely because retail and transportation are necessities, while demand for entertainment and hospitality services are more elastic. 
     
-<iframe src="image/7_listing_areaplot.html" height="610" width="1110"></iframe>
+<iframe src="image/7_listing_areaplot.html" height="620" width="1110"></iframe>
 
 ### Implications and Recommendations 
 
